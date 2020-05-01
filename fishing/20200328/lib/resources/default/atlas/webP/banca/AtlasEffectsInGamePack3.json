@@ -1,0 +1,85 @@
+{"frames": {
+
+"bgBoom.png":
+{
+	"frame": {"x":1,"y":664,"w":562,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":562,"h":325},
+	"sourceSize": {"w":562,"h":325}
+},
+"bgSonic.png":
+{
+	"frame": {"x":1,"y":305,"w":703,"h":357},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":703,"h":357},
+	"sourceSize": {"w":703,"h":357}
+},
+"EffectBoom0.png":
+{
+	"frame": {"x":565,"y":664,"w":132,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":190,"w":132,"h":132},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom3.png":
+{
+	"frame": {"x":715,"y":266,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":126,"w":260,"h":260},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom6.png":
+{
+	"frame": {"x":715,"y":1,"w":262,"h":263},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":125,"w":262,"h":263},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom8.png":
+{
+	"frame": {"x":706,"y":528,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":126,"w":260,"h":260},
+	"sourceSize": {"w":512,"h":512}
+},
+"lightningClay4.png":
+{
+	"frame": {"x":565,"y":798,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClayGreen0.png":
+{
+	"frame": {"x":786,"y":790,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"Minor.png":
+{
+	"frame": {"x":1,"y":1,"w":712,"h":302},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":302},
+	"sourceSize": {"w":712,"h":302}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack3.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack1.json", "AtlasEffectsInGamePack2.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a2662d0c191799147e7d38e23568ea9f:ab66aff7c658c934fb80c74b57bf8d8a:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

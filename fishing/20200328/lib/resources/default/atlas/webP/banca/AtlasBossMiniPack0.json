@@ -1,0 +1,178 @@
+{"frames": {
+
+"confeti0.png":
+{
+	"frame": {"x":1015,"y":2,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":7,"h":9}
+},
+"confeti1.png":
+{
+	"frame": {"x":1015,"y":13,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":7,"h":9}
+},
+"confeti2.png":
+{
+	"frame": {"x":1015,"y":24,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":7,"h":9}
+},
+"confeti3.png":
+{
+	"frame": {"x":1015,"y":35,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":7,"h":9}
+},
+"confeti4.png":
+{
+	"frame": {"x":1015,"y":46,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":7,"h":9}
+},
+"confeti5.png":
+{
+	"frame": {"x":1015,"y":57,"w":7,"h":9},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":7,"h":9},
+	"sourceSize": {"w":7,"h":9}
+},
+"fish35Box0.png":
+{
+	"frame": {"x":805,"y":313,"w":211,"h":208},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":211,"h":208},
+	"sourceSize": {"w":211,"h":211}
+},
+"fish35Die9.png":
+{
+	"frame": {"x":805,"y":523,"w":136,"h":138},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":220,"w":136,"h":138},
+	"sourceSize": {"w":313,"h":395}
+},
+"fish35Die14.png":
+{
+	"frame": {"x":661,"y":313,"w":142,"h":298},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":86,"y":57,"w":142,"h":298},
+	"sourceSize": {"w":313,"h":395}
+},
+"fish35Die15.png":
+{
+	"frame": {"x":661,"y":160,"w":151,"h":352},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":82,"y":5,"w":151,"h":352},
+	"sourceSize": {"w":313,"h":395}
+},
+"lightBig.png":
+{
+	"frame": {"x":2,"y":2,"w":657,"h":658},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":657,"h":658},
+	"sourceSize": {"w":657,"h":658}
+},
+"rewardCard0.png":
+{
+	"frame": {"x":661,"y":2,"w":352,"h":156},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":156},
+	"sourceSize": {"w":352,"h":156}
+},
+"rewardFastBullet.png":
+{
+	"frame": {"x":2,"y":662,"w":359,"h":275},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":275},
+	"sourceSize": {"w":359,"h":275}
+},
+"rewardFreeGun.png":
+{
+	"frame": {"x":279,"y":662,"w":359,"h":272},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":272},
+	"sourceSize": {"w":359,"h":272}
+},
+"rewardJackpot.png":
+{
+	"frame": {"x":553,"y":662,"w":461,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":461,"h":325},
+	"sourceSize": {"w":461,"h":325}
+},
+"ribbon0.png":
+{
+	"frame": {"x":661,"y":613,"w":42,"h":75},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":75},
+	"sourceSize": {"w":42,"h":75}
+},
+"ribbon1.png":
+{
+	"frame": {"x":553,"y":989,"w":30,"h":80},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":80},
+	"sourceSize": {"w":30,"h":80}
+},
+"ribbon2.png":
+{
+	"frame": {"x":945,"y":604,"w":51,"h":60},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":60},
+	"sourceSize": {"w":51,"h":60}
+},
+"ribbon3.png":
+{
+	"frame": {"x":635,"y":989,"w":27,"h":77},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":27,"h":77},
+	"sourceSize": {"w":27,"h":77}
+},
+"star.png":
+{
+	"frame": {"x":945,"y":523,"w":76,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":79},
+	"sourceSize": {"w":76,"h":79}
+}},
+"animations": {
+	"confeti": ["confeti0.png","confeti1.png","confeti2.png","confeti3.png","confeti4.png","confeti5.png"],
+	"fish35Die": ["fish35Die9.png","fish35Die14.png","fish35Die15.png"],
+	"ribbon": ["ribbon0.png","ribbon1.png","ribbon2.png","ribbon3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBossMiniPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasBossMiniPack1.json", "AtlasBossMiniPack2.json", "AtlasBossMiniPack3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:30d526a29f128eaa82f34fbcc56549cb:9203c166e02576ac4f0ef6a2f042e679:91a484ef99ff90760b2444370be9cb49$"
+}
+}

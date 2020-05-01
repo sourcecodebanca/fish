@@ -1,0 +1,219 @@
+{"frames": {
+
+"BackgroundSkill.png":
+{
+	"frame": {"x":2,"y":2,"w":137,"h":88},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":137,"h":88},
+	"sourceSize": {"w":137,"h":88}
+},
+"bom.png":
+{
+	"frame": {"x":141,"y":2,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"Effect0Gun201Active0.png":
+{
+	"frame": {"x":426,"y":81,"w":79,"h":76},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":6,"w":79,"h":76},
+	"sourceSize": {"w":89,"h":89}
+},
+"Effect0Gun202Active0.png":
+{
+	"frame": {"x":315,"y":173,"w":75,"h":76},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":76},
+	"sourceSize": {"w":76,"h":76}
+},
+"Effect0Gun203Active0.png":
+{
+	"frame": {"x":315,"y":97,"w":78,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":78,"h":74},
+	"sourceSize": {"w":79,"h":79}
+},
+"Effect0Gun203Active1.png":
+{
+	"frame": {"x":426,"y":2,"w":79,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":79,"h":77},
+	"sourceSize": {"w":79,"h":79}
+},
+"Effect0Gun203Active2.png":
+{
+	"frame": {"x":234,"y":97,"w":79,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":79,"h":75},
+	"sourceSize": {"w":79,"h":79}
+},
+"Effect1Gun201Active0.png":
+{
+	"frame": {"x":97,"y":113,"w":38,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":38,"h":89},
+	"sourceSize": {"w":89,"h":89}
+},
+"Effect1Gun201Active1.png":
+{
+	"frame": {"x":2,"y":187,"w":38,"h":89},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":0,"w":38,"h":89},
+	"sourceSize": {"w":89,"h":89}
+},
+"FullSkill.png":
+{
+	"frame": {"x":234,"y":174,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"IconGun201Active0.png":
+{
+	"frame": {"x":137,"y":192,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":71,"h":71}
+},
+"IconGun201Active1.png":
+{
+	"frame": {"x":410,"y":159,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":71,"h":71}
+},
+"IconGun202Active0.png":
+{
+	"frame": {"x":393,"y":232,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":71,"h":71}
+},
+"IconGun202Active1.png":
+{
+	"frame": {"x":2,"y":227,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":71,"h":71}
+},
+"IconGun203Active0.png":
+{
+	"frame": {"x":210,"y":250,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":71,"h":71}
+},
+"IconGun203Active1.png":
+{
+	"frame": {"x":135,"y":265,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":71,"h":71},
+	"sourceSize": {"w":71,"h":71}
+},
+"laze.png":
+{
+	"frame": {"x":2,"y":92,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"lighting.png":
+{
+	"frame": {"x":236,"y":2,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"LightProgress.png":
+{
+	"frame": {"x":97,"y":92,"w":19,"h":40},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":40},
+	"sourceSize": {"w":19,"h":40}
+},
+"medusa.png":
+{
+	"frame": {"x":331,"y":2,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"ProgressSkillCircle.png":
+{
+	"frame": {"x":283,"y":250,"w":71,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":43,"y":8,"w":71,"h":71},
+	"sourceSize": {"w":137,"h":85}
+},
+"ProgressSkillRect.png":
+{
+	"frame": {"x":395,"y":120,"w":53,"h":13},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":61,"w":53,"h":13},
+	"sourceSize": {"w":137,"h":85}
+},
+"sonic.png":
+{
+	"frame": {"x":139,"y":97,"w":93,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":93},
+	"sourceSize": {"w":93,"h":93}
+},
+"StarFullSkill.png":
+{
+	"frame": {"x":395,"y":97,"w":21,"h":26},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":26},
+	"sourceSize": {"w":27,"h":27}
+},
+"TableSkill.png":
+{
+	"frame": {"x":75,"y":227,"w":58,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":57},
+	"sourceSize": {"w":58,"h":57}
+}},
+"animations": {
+	"Effect0Gun203Active": ["Effect0Gun203Active0.png","Effect0Gun203Active1.png","Effect0Gun203Active2.png"],
+	"Effect1Gun201Active": ["Effect1Gun201Active0.png","Effect1Gun201Active1.png"],
+	"IconGun201Active": ["IconGun201Active0.png","IconGun201Active1.png"],
+	"IconGun202Active": ["IconGun202Active0.png","IconGun202Active1.png"],
+	"IconGun203Active": ["IconGun203Active0.png","IconGun203Active1.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGunSkills.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a9ccfe24d2d514a9cad08a26e86bc0de:c4eeb38a0551e981be7111c0f2a93cf0:a25c3e3b01702a509e6cea6484036be1$"
+}
+}

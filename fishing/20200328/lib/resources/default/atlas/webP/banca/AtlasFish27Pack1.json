@@ -1,0 +1,29 @@
+{"frames": {
+
+"fish27Swim8.png":
+{
+	"frame": {"x":261,"y":2,"w":253,"h":143},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":53,"w":253,"h":143},
+	"sourceSize": {"w":275,"h":257}
+},
+"fish27Swim12.png":
+{
+	"frame": {"x":2,"y":2,"w":257,"h":255},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":0,"w":257,"h":255},
+	"sourceSize": {"w":275,"h":257}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFish27Pack1.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasFish27Pack0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e63b5b9512f6bf39710e837284c7c578:41f8b943a78094b6f22782bed43780c2:7cb69e786a7e1c75b084ffbc62246c92$"
+}
+}

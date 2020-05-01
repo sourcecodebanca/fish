@@ -1,0 +1,176 @@
+{"frames": {
+
+"avatarDefault0.png":
+{
+	"frame": {"x":2,"y":2,"w":82,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":83},
+	"sourceSize": {"w":82,"h":83}
+},
+"avatarDefault1.png":
+{
+	"frame": {"x":2,"y":2,"w":82,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":83},
+	"sourceSize": {"w":82,"h":83}
+},
+"avatarDefault2.png":
+{
+	"frame": {"x":2,"y":2,"w":82,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":83},
+	"sourceSize": {"w":82,"h":83}
+},
+"avatarDefault3.png":
+{
+	"frame": {"x":2,"y":2,"w":82,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":83},
+	"sourceSize": {"w":82,"h":83}
+},
+"avatarDefault4.png":
+{
+	"frame": {"x":2,"y":2,"w":82,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":83},
+	"sourceSize": {"w":82,"h":83}
+},
+"BGNotifyGame.png":
+{
+	"frame": {"x":2,"y":87,"w":524,"h":68},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":524,"h":68},
+	"sourceSize": {"w":524,"h":68}
+},
+"CoinWin0.png":
+{
+	"frame": {"x":86,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin1.png":
+{
+	"frame": {"x":153,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin2.png":
+{
+	"frame": {"x":220,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin3.png":
+{
+	"frame": {"x":287,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin4.png":
+{
+	"frame": {"x":354,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin5.png":
+{
+	"frame": {"x":421,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin6.png":
+{
+	"frame": {"x":488,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin7.png":
+{
+	"frame": {"x":2,"y":157,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWin8.png":
+{
+	"frame": {"x":86,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"IconCoin.png":
+{
+	"frame": {"x":69,"y":157,"w":21,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":22},
+	"sourceSize": {"w":21,"h":22}
+},
+"iconCoinAvatar.png":
+{
+	"frame": {"x":27,"y":224,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":22},
+	"sourceSize": {"w":22,"h":22}
+},
+"iconCoinAvatarSilver.png":
+{
+	"frame": {"x":51,"y":224,"w":22,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":22},
+	"sourceSize": {"w":22,"h":22}
+},
+"IconPeople.png":
+{
+	"frame": {"x":2,"y":224,"w":23,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":22},
+	"sourceSize": {"w":23,"h":22}
+},
+"LineMenu.png":
+{
+	"frame": {"x":86,"y":69,"w":308,"h":2},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":308,"h":2},
+	"sourceSize": {"w":308,"h":2}
+}},
+"animations": {
+	"CoinWin": ["CoinWin0.png","CoinWin1.png","CoinWin2.png","CoinWin3.png","CoinWin4.png","CoinWin5.png","CoinWin6.png","CoinWin7.png","CoinWin8.png"],
+	"avatarDefault": ["avatarDefault0.png","avatarDefault1.png","avatarDefault2.png","avatarDefault3.png","avatarDefault4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBanCaGeneralPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ecd95106280eae838efc36d08dff47a0:1f5b430cb11b368f10758a23af608a37:d807da3c296b4ce420f22d0527fa8a25$"
+}
+}

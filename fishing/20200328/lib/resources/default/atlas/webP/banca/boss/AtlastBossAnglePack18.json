@@ -1,0 +1,56 @@
+{"frames": {
+
+"AngleSwim14.png":
+{
+	"frame": {"x":2,"y":2,"w":348,"h":362},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":25,"w":348,"h":362},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim15.png":
+{
+	"frame": {"x":352,"y":2,"w":331,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":100,"y":37,"w":331,"h":350},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim16.png":
+{
+	"frame": {"x":685,"y":2,"w":329,"h":351},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":101,"y":36,"w":329,"h":351},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim17.png":
+{
+	"frame": {"x":2,"y":366,"w":340,"h":366},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":87,"y":20,"w":340,"h":366},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim18.png":
+{
+	"frame": {"x":344,"y":366,"w":356,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":41,"w":356,"h":345},
+	"sourceSize": {"w":600,"h":437}
+}},
+"animations": {
+	"AngleSwim": ["AngleSwim14.png","AngleSwim15.png","AngleSwim16.png","AngleSwim17.png","AngleSwim18.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlastBossAnglePack18.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlastBossAnglePack0.json", "AtlastBossAnglePack1.json", "AtlastBossAnglePack2.json", "AtlastBossAnglePack3.json", "AtlastBossAnglePack4.json", "AtlastBossAnglePack5.json", "AtlastBossAnglePack6.json", "AtlastBossAnglePack7.json", "AtlastBossAnglePack8.json", "AtlastBossAnglePack9.json", "AtlastBossAnglePack10.json", "AtlastBossAnglePack11.json", "AtlastBossAnglePack12.json", "AtlastBossAnglePack13.json", "AtlastBossAnglePack14.json", "AtlastBossAnglePack15.json", "AtlastBossAnglePack16.json", "AtlastBossAnglePack17.json", "AtlastBossAnglePack19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c23721a8305ec32edcc44ece443af987:aaf16483300e8b19520df32dfef14aea:5aae3e165df6b58d9ca82ad47c54e1e8$"
+}
+}

@@ -1,0 +1,23 @@
+{"frames": {
+
+"bullet203explode7.png":
+{
+	"frame": {"x":2,"y":2,"w":348,"h":360},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":171,"y":177,"w":348,"h":360},
+	"sourceSize": {"w":700,"h":700}
+}},
+"animations": {
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun203Pack2.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasGun203Pack0.json", "AtlasGun203Pack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1182ac09fdac84843c696aff233727c6:af51fa660b36c31483bbe661421ae147:f2d43073101c5f49118e2a4d94bcd765$"
+}
+}

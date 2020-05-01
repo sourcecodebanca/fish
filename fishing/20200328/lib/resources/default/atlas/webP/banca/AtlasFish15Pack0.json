@@ -1,0 +1,101 @@
+{"frames": {
+
+"fish15Swim0.png":
+{
+	"frame": {"x":550,"y":247,"w":244,"h":295},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":6,"w":244,"h":295},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim1.png":
+{
+	"frame": {"x":248,"y":2,"w":244,"h":300},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":244,"h":300},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim2.png":
+{
+	"frame": {"x":2,"y":310,"w":244,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":244,"h":305},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim3.png":
+{
+	"frame": {"x":2,"y":2,"w":244,"h":306},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":244,"h":306},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim4.png":
+{
+	"frame": {"x":2,"y":617,"w":244,"h":305},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":244,"h":305},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim5.png":
+{
+	"frame": {"x":550,"y":2,"w":243,"h":300},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":4,"w":243,"h":300},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim6.png":
+{
+	"frame": {"x":248,"y":248,"w":243,"h":294},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":243,"h":294},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim8.png":
+{
+	"frame": {"x":740,"y":739,"w":243,"h":276},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":243,"h":276},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim18.png":
+{
+	"frame": {"x":494,"y":739,"w":244,"h":281},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":14,"w":244,"h":281},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim21.png":
+{
+	"frame": {"x":248,"y":493,"w":244,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":244,"h":293},
+	"sourceSize": {"w":244,"h":306}
+},
+"fish15Swim22.png":
+{
+	"frame": {"x":494,"y":493,"w":244,"h":293},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":244,"h":293},
+	"sourceSize": {"w":244,"h":306}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFish15Pack0.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasFish15Pack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e9e7914bb809181f8e67fa49912c13d5:ba338b0d1bcf3c38fd2b94c2bbdc7252:1a3ff10e86eadf7bf15fd89d448b9c0c$"
+}
+}

@@ -1,0 +1,77 @@
+{"frames": {
+
+"bgLaze.png":
+{
+	"frame": {"x":1,"y":1,"w":783,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":783,"h":212},
+	"sourceSize": {"w":802,"h":212}
+},
+"EffectBoom4.png":
+{
+	"frame": {"x":1,"y":621,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":56,"w":400,"h":400},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom7.png":
+{
+	"frame": {"x":715,"y":222,"w":267,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":123,"w":267,"h":267},
+	"sourceSize": {"w":512,"h":512}
+},
+"lightningClay2.png":
+{
+	"frame": {"x":786,"y":1,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClay3.png":
+{
+	"frame": {"x":765,"y":685,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"Major.png":
+{
+	"frame": {"x":1,"y":215,"w":712,"h":404},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":712,"h":404},
+	"sourceSize": {"w":712,"h":404}
+},
+"soniclight.png":
+{
+	"frame": {"x":403,"y":621,"w":360,"h":356},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":356},
+	"sourceSize": {"w":360,"h":356}
+},
+"TomatoExplode.png":
+{
+	"frame": {"x":765,"y":491,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack2.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack1.json", "AtlasEffectsInGamePack3.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a2662d0c191799147e7d38e23568ea9f:ab66aff7c658c934fb80c74b57bf8d8a:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

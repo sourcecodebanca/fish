@@ -1,0 +1,48 @@
+{"frames": {
+
+"AngleAttack27.png":
+{
+	"frame": {"x":2,"y":2,"w":600,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":95,"w":600,"h":422},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleAttack28.png":
+{
+	"frame": {"x":604,"y":2,"w":416,"h":431},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":90,"w":416,"h":431},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleAttack29.png":
+{
+	"frame": {"x":2,"y":435,"w":417,"h":419},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":83,"y":105,"w":417,"h":419},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleAttack30.png":
+{
+	"frame": {"x":421,"y":435,"w":396,"h":390},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":84,"y":135,"w":396,"h":390},
+	"sourceSize": {"w":600,"h":600}
+}},
+"animations": {
+	"AngleAttack": ["AngleAttack27.png","AngleAttack28.png","AngleAttack29.png","AngleAttack30.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlastBossAnglePack8.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlastBossAnglePack0.json", "AtlastBossAnglePack1.json", "AtlastBossAnglePack2.json", "AtlastBossAnglePack3.json", "AtlastBossAnglePack4.json", "AtlastBossAnglePack5.json", "AtlastBossAnglePack6.json", "AtlastBossAnglePack7.json", "AtlastBossAnglePack9.json", "AtlastBossAnglePack10.json", "AtlastBossAnglePack11.json", "AtlastBossAnglePack12.json", "AtlastBossAnglePack13.json", "AtlastBossAnglePack14.json", "AtlastBossAnglePack15.json", "AtlastBossAnglePack16.json", "AtlastBossAnglePack17.json", "AtlastBossAnglePack18.json", "AtlastBossAnglePack19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c23721a8305ec32edcc44ece443af987:aaf16483300e8b19520df32dfef14aea:5aae3e165df6b58d9ca82ad47c54e1e8$"
+}
+}

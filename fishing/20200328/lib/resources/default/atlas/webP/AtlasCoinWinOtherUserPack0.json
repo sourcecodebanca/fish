@@ -1,0 +1,84 @@
+{"frames": {
+
+"CoinWinOtherUser0.png":
+{
+	"frame": {"x":2,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser1.png":
+{
+	"frame": {"x":2,"y":69,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser2.png":
+{
+	"frame": {"x":2,"y":136,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser3.png":
+{
+	"frame": {"x":69,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser4.png":
+{
+	"frame": {"x":136,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser5.png":
+{
+	"frame": {"x":69,"y":69,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser6.png":
+{
+	"frame": {"x":69,"y":136,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser7.png":
+{
+	"frame": {"x":136,"y":69,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+},
+"CoinWinOtherUser8.png":
+{
+	"frame": {"x":2,"y":2,"w":65,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":65},
+	"sourceSize": {"w":65,"h":65}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasCoinWinOtherUserPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d6928edd75736154a7a1688c1deb16d2:bf82769288f5e1c893bdd315bcf8a7e9:29bab14f3089b9519a77b31cf0517daa$"
+}
+}

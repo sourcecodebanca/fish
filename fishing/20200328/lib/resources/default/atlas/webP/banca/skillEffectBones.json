@@ -1,0 +1,170 @@
+{
+"skeleton": { "hash": "5M/nOQdKEyZnGC1umlqIxNiBGbU", "spine": "3.7.91", "width": 1409, "height": 810.03, "images": "./images/", "audio": "E:/DS-THANG/DESIGN/17_5_2019/ban_ca_new/ui_skill_manchoi" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "all", "parent": "root" },
+	{ "name": "assss", "parent": "all", "y": 1.74 },
+	{ "name": "as_all", "parent": "assss" },
+	{ "name": "bone2", "parent": "as_all" },
+	{ "name": "bone3", "parent": "as_all", "rotation": -40.4, "x": -3.8, "y": -4.55 },
+	{ "name": "as_vong", "parent": "assss" },
+	{ "name": "as_vong2", "parent": "assss" }
+],
+"slots": [
+	{ "name": "as_1", "bone": "as_all", "color": "ffffff00", "attachment": "as_1", "blend": "additive" },
+	{ "name": "as_2", "bone": "as_all", "color": "ffffff00", "attachment": "as_2", "blend": "additive" },
+	{ "name": "as_3", "bone": "as_all", "color": "ffffff00", "attachment": "as_3", "blend": "additive" },
+	{ "name": "as_4", "bone": "as_all", "color": "ffffff00", "attachment": "as_4", "blend": "additive" },
+	{ "name": "as_5", "bone": "as_all", "color": "ffffff00", "attachment": "as_5", "blend": "additive" },
+	{ "name": "as_6", "bone": "bone2", "color": "ffffff00", "attachment": "as_6", "blend": "additive" },
+	{ "name": "as_7", "bone": "bone3", "color": "ffffff00", "attachment": "as_6", "blend": "additive" },
+	{ "name": "as_vong", "bone": "as_vong", "attachment": "as_vong", "blend": "additive" },
+	{ "name": "as_vong2", "bone": "as_vong2", "attachment": "as_vong", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"as_1": {
+			"as_1": { "x": -0.18, "y": -1.09, "width": 21, "height": 19 }
+		},
+		"as_2": {
+			"as_2": { "x": -0.68, "y": -0.09, "width": 38, "height": 33 }
+		},
+		"as_3": {
+			"as_3": { "x": -2.18, "y": 0.41, "width": 81, "height": 76 }
+		},
+		"as_4": {
+			"as_4": { "x": -2.18, "y": -0.59, "width": 71, "height": 82 }
+		},
+		"as_5": {
+			"as_5": { "x": -0.18, "y": 1.41, "width": 77, "height": 76 }
+		},
+		"as_6": {
+			"as_6": { "x": -0.68, "y": 0.91, "width": 88, "height": 87 }
+		},
+		"as_7": {
+			"as_6": { "x": -0.68, "y": 0.91, "width": 88, "height": 87 }
+		},
+		"as_vong": {
+			"as_vong": { "x": -0.68, "y": -1.09, "width": 76, "height": 75 }
+		},
+		"as_vong2": {
+			"as_vong": { "x": -0.68, "y": -1.09, "width": 76, "height": 75 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"as_1": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.0667, "color": "ffffffff" },
+					{ "time": 0.1, "color": "ffffff00" }
+				]
+			},
+			"as_2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.0667, "color": "ffffff00" },
+					{ "time": 0.1, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffffff" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"as_3": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1333, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffffff" },
+					{ "time": 0.2333, "color": "ffffff00" }
+				]
+			},
+			"as_4": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2, "color": "ffffff00" },
+					{ "time": 0.2333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffffff" },
+					{ "time": 0.3, "color": "ffffff00" }
+				]
+			},
+			"as_5": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.2667, "color": "ffffff00" },
+					{ "time": 0.3, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.3667, "color": "ffffff00" }
+				]
+			},
+			"as_6": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.3333, "color": "ffffff00" },
+					{ "time": 0.3667, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.4333, "color": "ffffff00" }
+				]
+			},
+			"as_7": {
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffff00" },
+					{ "time": 0.4333, "color": "ffffff32", "curve": "stepped" },
+					{ "time": 0.4667, "color": "ffffff32" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"as_vong": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.0667, "color": "ffffffff" },
+					{ "time": 0.1667, "color": "ffffff00" }
+				]
+			},
+			"as_vong2": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"as_all": {
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.5, "x": 0, "y": 0 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": -25.74 }
+				]
+			},
+			"bone3": {
+				"rotate": [
+					{ "time": 0, "angle": -25.74 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1.04, "y": 1.04 }
+				]
+			},
+			"as_vong": {
+				"scale": [
+					{ "time": 0, "x": 0.26, "y": 0.26 },
+					{ "time": 0.1667, "x": 1.28, "y": 1.28 }
+				]
+			},
+			"as_vong2": {
+				"scale": [
+					{ "time": 0, "x": 0.26, "y": 0.26 },
+					{ "time": 0.3333, "x": 1.28, "y": 1.28 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,96 @@
+
+GunEffect104Bones.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+s
+  rotate: false
+  xy: 0, 423
+  size: 358, 601
+  orig: 358, 601
+  offset: 0, 0
+  index: -1
+ss
+  rotate: false
+  xy: 358, 575
+  size: 481, 449
+  orig: 481, 449
+  offset: 0, 0
+  index: -1
+v
+  rotate: false
+  xy: 0, 0
+  size: 153, 117
+  orig: 153, 117
+  offset: 0, 0
+  index: -1
+vvv
+  rotate: true
+  xy: 839, 835
+  size: 189, 138
+  orig: 189, 138
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 465, 73
+  size: 298, 502
+  orig: 298, 502
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 0, 117
+  size: 306, 465
+  orig: 306, 465
+  offset: 0, 0
+  index: -1
+xxx
+  rotate: false
+  xy: 763, 42
+  size: 221, 533
+  orig: 221, 533
+  offset: 0, 0
+  index: -1
+
+GunEffect104Bones2.webp
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ll
+  rotate: false
+  xy: 508, 623
+  size: 248, 223
+  orig: 248, 223
+  offset: 0, 0
+  index: -1
+lt
+  rotate: false
+  xy: 320, 529
+  size: 188, 317
+  orig: 188, 317
+  offset: 0, 0
+  index: -1
+vi
+  rotate: false
+  xy: 0, 511
+  size: 320, 335
+  orig: 320, 335
+  offset: 0, 0
+  index: -1
+vii
+  rotate: false
+  xy: 0, 231
+  size: 269, 280
+  orig: 269, 280
+  offset: 0, 0
+  index: -1
+vv
+  rotate: false
+  xy: 0, 0
+  size: 269, 231
+  orig: 269, 231
+  offset: 0, 0
+  index: -1

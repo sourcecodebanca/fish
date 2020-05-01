@@ -1,0 +1,28 @@
+{"frames": {
+
+"bgscroll.png":
+{
+	"frame": {"x":2,"y":2,"w":15,"h":504},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":504},
+	"sourceSize": {"w":15,"h":504}
+},
+"thump.png":
+{
+	"frame": {"x":19,"y":2,"w":9,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":9,"h":70},
+	"sourceSize": {"w":9,"h":70}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasPopupPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ead09b36859a3971f2fcf3df82231e01:9cc75c85d4ef68d69dc2cb0cbf253895:659c71158714b6cfd56ed1550524a8a0$"
+}
+}

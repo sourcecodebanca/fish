@@ -1,0 +1,88 @@
+{"frames": {
+
+"bullet101fire0.png":
+{
+	"frame": {"x":157,"y":1,"w":46,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":101},
+	"sourceSize": {"w":46,"h":101}
+},
+"gun101fire0.png":
+{
+	"frame": {"x":1,"y":346,"w":114,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":45,"w":114,"h":110},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101fire1.png":
+{
+	"frame": {"x":137,"y":231,"w":114,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":24,"w":114,"h":134},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101fire2.png":
+{
+	"frame": {"x":1,"y":116,"w":114,"h":146},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":15,"w":114,"h":146},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101fire3.png":
+{
+	"frame": {"x":1,"y":1,"w":114,"h":155},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":114,"h":155},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101fire4.png":
+{
+	"frame": {"x":1,"y":231,"w":114,"h":135},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":26,"w":114,"h":135},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101fire5.png":
+{
+	"frame": {"x":1,"y":346,"w":114,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":48,"w":114,"h":110},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101idle0.png":
+{
+	"frame": {"x":1,"y":346,"w":114,"h":110},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":48,"w":114,"h":110},
+	"sourceSize": {"w":114,"h":163}
+},
+"gun101idle1.png":
+{
+	"frame": {"x":148,"y":116,"w":108,"h":103},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":52,"w":108,"h":103},
+	"sourceSize": {"w":114,"h":163}
+}},
+"animations": {
+	"gun101fire": ["gun101fire0.png","gun101fire1.png","gun101fire2.png","gun101fire3.png","gun101fire4.png","gun101fire5.png"],
+	"gun101idle": ["gun101idle0.png","gun101idle1.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun101Pack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:78af2a2460225d40af918f685e183696:55fea38c7f5375d3657b39e07625b78c:5e9811435350e69f177a11e3f8a28b22$"
+}
+}

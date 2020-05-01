@@ -1,0 +1,37 @@
+{"frames": {
+
+"RedFishCircle.png":
+{
+	"frame": {"x":2,"y":2,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300}
+},
+"RedFishThunderCircle0.png":
+{
+	"frame": {"x":2,"y":304,"w":267,"h":262},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":18,"w":267,"h":262},
+	"sourceSize": {"w":300,"h":300}
+},
+"RedFishThunderCircle1.png":
+{
+	"frame": {"x":2,"y":568,"w":268,"h":276},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":14,"w":268,"h":276},
+	"sourceSize": {"w":300,"h":300}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsPack2.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsPack0.json", "AtlasEffectsPack1.json", "AtlasEffectsPack3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:640ccd82b75f14b1c6ffc8769cf16084:f332b34ee93d9ad9f5beae7ab77e2136:cd139f44952e676af55be74224142d8e$"
+}
+}

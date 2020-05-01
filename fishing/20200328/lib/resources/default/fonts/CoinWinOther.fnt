@@ -1,0 +1,27 @@
+<font>
+	<info face="CoinWinOther" size="80" />
+	<common lineHeight="80" scaleW="256" scaleH="256" pages="1" />
+	<pages>
+		<page id="0" file="CoinWinOther.png" />
+	</pages>
+	<chars count="16">
+		<char id="48" x="0" y="137" width="46" height="69" xoffset="0" yoffset="11" xadvance="47" /><!-- 0 -->
+		<char id="49" x="140" y="138" width="31" height="67" xoffset="0" yoffset="11" xadvance="32" /><!-- 1 -->
+		<char id="50" x="140" y="70" width="45" height="67" xoffset="0" yoffset="11" xadvance="46" /><!-- 2 -->
+		<char id="51" x="94" y="70" width="45" height="69" xoffset="0" yoffset="11" xadvance="46" /><!-- 3 -->
+		<char id="52" x="47" y="52" width="46" height="67" xoffset="0" yoffset="11" xadvance="47" /><!-- 4 -->
+		<char id="53" x="94" y="140" width="45" height="68" xoffset="0" yoffset="12" xadvance="46" /><!-- 5 -->
+		<char id="54" x="0" y="67" width="46" height="69" xoffset="0" yoffset="11" xadvance="47" /><!-- 6 -->
+		<char id="55" x="0" y="0" width="46" height="66" xoffset="0" yoffset="12" xadvance="47" /><!-- 7 -->
+		<char id="56" x="47" y="120" width="46" height="69" xoffset="0" yoffset="11" xadvance="47" /><!-- 8 -->
+		<char id="57" x="94" y="0" width="46" height="69" xoffset="0" yoffset="11" xadvance="47" /><!-- 9 -->
+		<char id="43" x="47" y="0" width="46" height="51" xoffset="0" yoffset="27" xadvance="47" /><!-- + -->
+		<char id="45" x="0" y="209" width="29" height="22" xoffset="0" yoffset="39" xadvance="30" /><!-- - -->
+		<char id="46" x="0" y="232" width="18" height="23" xoffset="0" yoffset="55" xadvance="19" /><!-- . -->
+		<char id="44" x="30" y="209" width="18" height="37" xoffset="0" yoffset="55" xadvance="19" /><!-- , -->
+		<char id="32" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="20" /><!--   -->
+		<char id="9" x="0" y="0" width="0" height="0" xoffset="0" yoffset="0" xadvance="160" /><!-- 	 -->
+	</chars>
+	<kernings count="0">
+	</kernings>
+</font>

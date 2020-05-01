@@ -1,0 +1,109 @@
+{"frames": {
+
+"bullet103explode0.png":
+{
+	"frame": {"x":188,"y":768,"w":183,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":99,"w":183,"h":151},
+	"sourceSize": {"w":378,"h":378}
+},
+"bullet103explode6.png":
+{
+	"frame": {"x":241,"y":206,"w":206,"h":207},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":91,"w":206,"h":207},
+	"sourceSize": {"w":378,"h":378}
+},
+"bullet103explode8.png":
+{
+	"frame": {"x":400,"y":414,"w":175,"h":99},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":120,"w":175,"h":99},
+	"sourceSize": {"w":378,"h":378}
+},
+"bullet103fire0.png":
+{
+	"frame": {"x":400,"y":591,"w":71,"h":126},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":71,"h":126},
+	"sourceSize": {"w":71,"h":134}
+},
+"gun103fire3.png":
+{
+	"frame": {"x":204,"y":414,"w":194,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":60,"w":194,"h":190},
+	"sourceSize": {"w":218,"h":256}
+},
+"gun103fire5.png":
+{
+	"frame": {"x":2,"y":198,"w":208,"h":237},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":6,"w":208,"h":237},
+	"sourceSize": {"w":218,"h":256}
+},
+"gun103fire6.png":
+{
+	"frame": {"x":254,"y":2,"w":202,"h":244},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":3,"w":202,"h":244},
+	"sourceSize": {"w":218,"h":256}
+},
+"gun103fire7.png":
+{
+	"frame": {"x":2,"y":2,"w":194,"h":250},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":1,"w":194,"h":250},
+	"sourceSize": {"w":218,"h":256}
+},
+"gun103idle5.png":
+{
+	"frame": {"x":2,"y":408,"w":200,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":116,"w":200,"h":158},
+	"sourceSize": {"w":218,"h":286}
+},
+"gun103idle8.png":
+{
+	"frame": {"x":2,"y":729,"w":184,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":114,"w":184,"h":159},
+	"sourceSize": {"w":218,"h":286}
+},
+"gun103idle9.png":
+{
+	"frame": {"x":192,"y":606,"w":185,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":113,"w":185,"h":160},
+	"sourceSize": {"w":218,"h":286}
+},
+"gun103idle10.png":
+{
+	"frame": {"x":2,"y":568,"w":188,"h":159},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":117,"w":188,"h":159},
+	"sourceSize": {"w":218,"h":286}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun103Pack1.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasGun103Pack0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b2b917eadc6b2917ce80bda37288f8c2:0e61e8a3c97e33816d5723749da6338f:e6cfde68e7a76932c4e1f7c142ec8a80$"
+}
+}

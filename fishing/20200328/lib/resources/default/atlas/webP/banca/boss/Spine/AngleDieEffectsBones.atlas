@@ -1,0 +1,140 @@
+
+AngleDieEffectsBones.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ip_00001
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+kiem/kiem_ghost_00000
+  rotate: false
+  xy: 260, 58
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+kiem/kiem_ghost_00001
+  rotate: true
+  xy: 260, 16
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+kiem/kiem_ghost_00002
+  rotate: false
+  xy: 462, 58
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+kiem/kiem_ghost_00003
+  rotate: false
+  xy: 302, 58
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+kiem/kiem_ghost_00004
+  rotate: false
+  xy: 344, 58
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+kiem/kiem_ghost_00005
+  rotate: false
+  xy: 386, 58
+  size: 40, 200
+  orig: 40, 200
+  offset: 0, 0
+  index: -1
+tiennu_pose_u
+  rotate: false
+  xy: 2, 260
+  size: 474, 241
+  orig: 474, 241
+  offset: 0, 0
+  index: -1
+
+AngleDieEffectsBones1.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xung_luc
+  rotate: false
+  xy: 2, 2
+  size: 363, 371
+  orig: 363, 371
+  offset: 0, 0
+  index: -1
+
+AngleDieEffectsBones2.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xung_luc_1
+  rotate: false
+  xy: 2, 2
+  size: 363, 371
+  orig: 363, 371
+  offset: 0, 0
+  index: -1
+
+AngleDieEffectsBones3.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiennu_pose_d
+  rotate: false
+  xy: 2, 2
+  size: 394, 311
+  orig: 394, 311
+  offset: 0, 0
+  index: -1
+
+AngleDieEffectsBones4.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ip_00002
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+AngleDieEffectsBones5.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ip_00003
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+
+AngleDieEffectsBones6.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ip_00004
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

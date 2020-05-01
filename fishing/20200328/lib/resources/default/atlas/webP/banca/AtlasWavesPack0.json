@@ -1,0 +1,64 @@
+{"frames": {
+
+"WaveBG0Wawing0.png":
+{
+	"frame": {"x":0,"y":0,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing1.png":
+{
+	"frame": {"x":512,"y":0,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing3.png":
+{
+	"frame": {"x":0,"y":326,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing4.png":
+{
+	"frame": {"x":512,"y":326,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing7.png":
+{
+	"frame": {"x":0,"y":652,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing8.png":
+{
+	"frame": {"x":512,"y":652,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+}},
+"animations": {
+	"WaveBG0Wawing": ["WaveBG0Wawing0.png","WaveBG0Wawing1.png","WaveBG0Wawing3.png","WaveBG0Wawing4.png","WaveBG0Wawing7.png","WaveBG0Wawing8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasWavesPack0.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "0.5",
+	"related_multi_packs": [ "AtlasWavesPack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:5885d8275ab69186ed7524ca0a375efc:38ccf13ced3fdc7e73d21e82b380ce21:e15d48e91e2522698aec4b3bb9b74303$"
+}
+}

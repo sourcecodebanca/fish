@@ -1,0 +1,28 @@
+{"frames": {
+
+"bgBotLeft.png":
+{
+	"frame": {"x":0,"y":0,"w":512,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":294},
+	"sourceSize": {"w":512,"h":294}
+},
+"bgTopLeft.png":
+{
+	"frame": {"x":0,"y":294,"w":512,"h":294},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":294},
+	"sourceSize": {"w":512,"h":294}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFilpImagePack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3dcb38e5998f2631bc45743bbe42caad:25b19e061e8fa06f23afd47e7a60f7d4:51e9987d44b5e3b10f62738af0c7ee8f$"
+}
+}

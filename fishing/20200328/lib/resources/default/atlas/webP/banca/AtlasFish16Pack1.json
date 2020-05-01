@@ -1,0 +1,61 @@
+{"frames": {
+
+"fish16Swim3.png":
+{
+	"frame": {"x":258,"y":397,"w":250,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":41,"w":250,"h":133},
+	"sourceSize": {"w":266,"h":183}
+},
+"fish16Swim5.png":
+{
+	"frame": {"x":258,"y":261,"w":252,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":32,"w":252,"h":134},
+	"sourceSize": {"w":266,"h":183}
+},
+"fish16Swim6.png":
+{
+	"frame": {"x":2,"y":141,"w":254,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":27,"w":254,"h":136},
+	"sourceSize": {"w":266,"h":183}
+},
+"fish16Swim7.png":
+{
+	"frame": {"x":2,"y":279,"w":254,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":24,"w":254,"h":135},
+	"sourceSize": {"w":266,"h":183}
+},
+"fish16Swim17.png":
+{
+	"frame": {"x":2,"y":2,"w":257,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":7,"w":257,"h":137},
+	"sourceSize": {"w":266,"h":183}
+},
+"fish16Swim18.png":
+{
+	"frame": {"x":261,"y":2,"w":257,"h":137},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":12,"w":257,"h":137},
+	"sourceSize": {"w":266,"h":183}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFish16Pack1.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasFish16Pack0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:4f020fcf3c4b80b45dcb395034535ec0:36b65e990b21bc1bf1102ef2c8530bda:e18ce3461d3f10e580971684cc4edf30$"
+}
+}

@@ -1,0 +1,181 @@
+{"frames": {
+
+"BGNumFish.png":
+{
+	"frame": {"x":963,"y":293,"w":51,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":51},
+	"sourceSize": {"w":51,"h":51}
+},
+"BrokenGlass.png":
+{
+	"frame": {"x":1,"y":480,"w":251,"h":221},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":221},
+	"sourceSize": {"w":251,"h":221}
+},
+"collectDragon1Piece.png":
+{
+	"frame": {"x":904,"y":395,"w":34,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":62},
+	"sourceSize": {"w":34,"h":62}
+},
+"collectDragon2Piece.png":
+{
+	"frame": {"x":940,"y":398,"w":34,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":57},
+	"sourceSize": {"w":34,"h":57}
+},
+"dragonText.png":
+{
+	"frame": {"x":521,"y":857,"w":403,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":403,"h":152},
+	"sourceSize": {"w":403,"h":152}
+},
+"EffectBoom2.png":
+{
+	"frame": {"x":521,"y":701,"w":154,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":179,"w":154,"h":154},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom5.png":
+{
+	"frame": {"x":696,"y":459,"w":271,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":121,"w":271,"h":271},
+	"sourceSize": {"w":512,"h":512}
+},
+"gemCollectDragon.png":
+{
+	"frame": {"x":976,"y":455,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":23},
+	"sourceSize": {"w":23,"h":23}
+},
+"Grand.png":
+{
+	"frame": {"x":1,"y":1,"w":901,"h":417},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":901,"h":417},
+	"sourceSize": {"w":901,"h":417}
+},
+"IceDrop.png":
+{
+	"frame": {"x":904,"y":1,"w":115,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":115,"h":290},
+	"sourceSize": {"w":120,"h":290}
+},
+"IconBrick5.png":
+{
+	"frame": {"x":963,"y":346,"w":48,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":48,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"iconGem.png":
+{
+	"frame": {"x":976,"y":398,"w":32,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":22},
+	"sourceSize": {"w":32,"h":22}
+},
+"IconTomato0.png":
+{
+	"frame": {"x":904,"y":351,"w":44,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":44,"h":42},
+	"sourceSize": {"w":50,"h":50}
+},
+"lazelight.png":
+{
+	"frame": {"x":1,"y":1016,"w":307,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":7},
+	"sourceSize": {"w":307,"h":7}
+},
+"LightDot.png":
+{
+	"frame": {"x":976,"y":422,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":30,"h":31},
+	"sourceSize": {"w":32,"h":35}
+},
+"lightningChainBG.png":
+{
+	"frame": {"x":1,"y":703,"w":518,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":518,"h":311},
+	"sourceSize": {"w":518,"h":311}
+},
+"lightningClay0.png":
+{
+	"frame": {"x":254,"y":480,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClay1.png":
+{
+	"frame": {"x":475,"y":480,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightProgress.png":
+{
+	"frame": {"x":904,"y":293,"w":57,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":57,"h":56},
+	"sourceSize": {"w":59,"h":58}
+},
+"particleLineBossDragon.png":
+{
+	"frame": {"x":1,"y":420,"w":382,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":46},
+	"sourceSize": {"w":382,"h":46}
+},
+"processBarDragon.png":
+{
+	"frame": {"x":1001,"y":455,"w":22,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":246},
+	"sourceSize": {"w":22,"h":246}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack1.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack2.json", "AtlasEffectsInGamePack3.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a2662d0c191799147e7d38e23568ea9f:ab66aff7c658c934fb80c74b57bf8d8a:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

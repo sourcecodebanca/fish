@@ -1,0 +1,55 @@
+
+skillEffectBones.webp
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as_1
+  rotate: false
+  xy: 416, 105
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+as_2
+  rotate: false
+  xy: 2, 2
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+as_3
+  rotate: false
+  xy: 92, 48
+  size: 81, 76
+  orig: 81, 76
+  offset: 0, 0
+  index: -1
+as_4
+  rotate: true
+  xy: 175, 53
+  size: 71, 82
+  orig: 71, 82
+  offset: 0, 0
+  index: -1
+as_5
+  rotate: false
+  xy: 259, 48
+  size: 77, 76
+  orig: 77, 76
+  offset: 0, 0
+  index: -1
+as_6
+  rotate: false
+  xy: 2, 37
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+as_vong
+  rotate: false
+  xy: 338, 49
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1

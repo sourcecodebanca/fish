@@ -1,0 +1,52 @@
+{"frames": {
+
+"btnReload.png":
+{
+	"frame": {"x":229,"y":100,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":79},
+	"sourceSize": {"w":79,"h":79}
+},
+"icon18Plus.png":
+{
+	"frame": {"x":2,"y":100,"w":225,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":225,"h":84},
+	"sourceSize": {"w":225,"h":84}
+},
+"iconProcess.png":
+{
+	"frame": {"x":310,"y":100,"w":46,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":79},
+	"sourceSize": {"w":46,"h":79}
+},
+"LoadingBarBGDefault.png":
+{
+	"frame": {"x":2,"y":2,"w":649,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":649,"h":96},
+	"sourceSize": {"w":649,"h":96}
+},
+"LoadingBarProgressDefault.png":
+{
+	"frame": {"x":2,"y":186,"w":565,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":565,"h":47},
+	"sourceSize": {"w":565,"h":47}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasLoadingDefaultPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bc9d28962409df5387b38a51443a1b67:24798e420bc93fd996ce1eeb6e8d436e:167a320428502b42fa8dfa7251ae253b$"
+}
+}

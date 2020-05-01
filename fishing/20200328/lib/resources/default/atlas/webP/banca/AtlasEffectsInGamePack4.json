@@ -1,0 +1,69 @@
+{"frames": {
+
+"Floor3Dragongun.jpg":
+{
+	"frame": {"x":1,"y":1,"w":384,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":216},
+	"sourceSize": {"w":384,"h":216}
+},
+"Freeze.png":
+{
+	"frame": {"x":222,"y":575,"w":154,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":142},
+	"sourceSize": {"w":154,"h":142}
+},
+"goldenText.png":
+{
+	"frame": {"x":1,"y":219,"w":382,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":133},
+	"sourceSize": {"w":382,"h":133}
+},
+"lightningClayGreen1.png":
+{
+	"frame": {"x":1,"y":354,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClayGreen2.png":
+{
+	"frame": {"x":222,"y":354,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClayGreen3.png":
+{
+	"frame": {"x":1,"y":575,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClayGreen4.png":
+{
+	"frame": {"x":1,"y":796,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack4.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack1.json", "AtlasEffectsInGamePack2.json", "AtlasEffectsInGamePack3.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a2662d0c191799147e7d38e23568ea9f:ab66aff7c658c934fb80c74b57bf8d8a:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

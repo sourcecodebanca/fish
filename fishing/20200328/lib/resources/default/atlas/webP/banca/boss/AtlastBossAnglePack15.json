@@ -1,0 +1,65 @@
+{"frames": {
+
+"AngleDie33.png":
+{
+	"frame": {"x":2,"y":2,"w":274,"h":428},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":90,"y":24,"w":274,"h":428},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie34.png":
+{
+	"frame": {"x":278,"y":2,"w":266,"h":423},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":94,"y":29,"w":266,"h":423},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleSwim0.png":
+{
+	"frame": {"x":546,"y":2,"w":309,"h":275},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":119,"y":112,"w":309,"h":275},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim1.png":
+{
+	"frame": {"x":2,"y":432,"w":312,"h":273},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":113,"w":312,"h":273},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim2.png":
+{
+	"frame": {"x":316,"y":432,"w":329,"h":332},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":103,"y":55,"w":329,"h":332},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim3.png":
+{
+	"frame": {"x":647,"y":432,"w":350,"h":356},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":31,"w":350,"h":356},
+	"sourceSize": {"w":600,"h":437}
+}},
+"animations": {
+	"AngleDie": ["AngleDie33.png","AngleDie34.png"],
+	"AngleSwim": ["AngleSwim0.png","AngleSwim1.png","AngleSwim2.png","AngleSwim3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlastBossAnglePack15.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlastBossAnglePack0.json", "AtlastBossAnglePack1.json", "AtlastBossAnglePack2.json", "AtlastBossAnglePack3.json", "AtlastBossAnglePack4.json", "AtlastBossAnglePack5.json", "AtlastBossAnglePack6.json", "AtlastBossAnglePack7.json", "AtlastBossAnglePack8.json", "AtlastBossAnglePack9.json", "AtlastBossAnglePack10.json", "AtlastBossAnglePack11.json", "AtlastBossAnglePack12.json", "AtlastBossAnglePack13.json", "AtlastBossAnglePack14.json", "AtlastBossAnglePack16.json", "AtlastBossAnglePack17.json", "AtlastBossAnglePack18.json", "AtlastBossAnglePack19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c23721a8305ec32edcc44ece443af987:aaf16483300e8b19520df32dfef14aea:5aae3e165df6b58d9ca82ad47c54e1e8$"
+}
+}

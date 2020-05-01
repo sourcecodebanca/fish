@@ -1,0 +1,48 @@
+{"frames": {
+
+"bullet203explode3.png":
+{
+	"frame": {"x":2,"y":447,"w":396,"h":402},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":134,"y":171,"w":396,"h":402},
+	"sourceSize": {"w":700,"h":700}
+},
+"bullet203explode4.png":
+{
+	"frame": {"x":443,"y":2,"w":370,"h":382},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":149,"y":191,"w":370,"h":382},
+	"sourceSize": {"w":700,"h":700}
+},
+"bullet203explode5.png":
+{
+	"frame": {"x":2,"y":2,"w":439,"h":443},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":111,"y":148,"w":439,"h":443},
+	"sourceSize": {"w":700,"h":700}
+},
+"bullet203explode6.png":
+{
+	"frame": {"x":400,"y":447,"w":388,"h":387},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":136,"y":184,"w":388,"h":387},
+	"sourceSize": {"w":700,"h":700}
+}},
+"animations": {
+	"bullet203explode": ["bullet203explode3.png","bullet203explode4.png","bullet203explode5.png","bullet203explode6.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun203Pack1.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasGun203Pack0.json", "AtlasGun203Pack2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:1182ac09fdac84843c696aff233727c6:af51fa660b36c31483bbe661421ae147:f2d43073101c5f49118e2a4d94bcd765$"
+}
+}

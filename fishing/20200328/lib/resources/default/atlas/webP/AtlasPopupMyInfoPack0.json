@@ -1,0 +1,28 @@
+{"frames": {
+
+"navy.png":
+{
+	"frame": {"x":2,"y":2,"w":31,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":37},
+	"sourceSize": {"w":31,"h":37}
+},
+"pirate.png":
+{
+	"frame": {"x":2,"y":41,"w":31,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":37},
+	"sourceSize": {"w":31,"h":37}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasPopupMyInfoPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":64,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:14d0470c892ca5aba514533b5e1daae3:fa1f83ba9905f77f0c6865b71fb09554:f305d2829667ac6b6477b94b97062ce7$"
+}
+}

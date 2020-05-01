@@ -1,0 +1,36 @@
+{"frames": {
+
+"IconHint1Poseidon.png":
+{
+	"frame": {"x":2,"y":2,"w":177,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":100},
+	"sourceSize": {"w":177,"h":100}
+},
+"IconHint2Poseidon.png":
+{
+	"frame": {"x":2,"y":105,"w":173,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":173,"h":139},
+	"sourceSize": {"w":173,"h":139}
+},
+"IconHint3Poseidon.png":
+{
+	"frame": {"x":2,"y":247,"w":91,"h":92},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":91,"h":92},
+	"sourceSize": {"w":91,"h":92}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBattleBossPoseidonHint.webp",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:dbc06b8e192cfc8253c76e18e0c2a048:c9b2ab3d680fe27095e7a59c18275daa:5a337b894a14f62d11d00e955baaa577$"
+}
+}

@@ -1,0 +1,97 @@
+{"frames": {
+
+"bullet102explode6.png":
+{
+	"frame": {"x":2,"y":2,"w":289,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":289,"h":293},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102explode8.png":
+{
+	"frame": {"x":2,"y":312,"w":336,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":105,"w":336,"h":327},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102explode9.png":
+{
+	"frame": {"x":340,"y":312,"w":427,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":66,"w":427,"h":403},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102explode10.png":
+{
+	"frame": {"x":616,"y":2,"w":327,"h":308},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":118,"w":327,"h":308},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102explode11.png":
+{
+	"frame": {"x":293,"y":2,"w":321,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":126,"w":321,"h":301},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102fly6.png":
+{
+	"frame": {"x":2,"y":2,"w":289,"h":293},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":137,"y":125,"w":289,"h":293},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102fly8.png":
+{
+	"frame": {"x":2,"y":312,"w":336,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":115,"y":105,"w":336,"h":327},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102fly9.png":
+{
+	"frame": {"x":340,"y":312,"w":427,"h":403},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":74,"y":66,"w":427,"h":403},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102fly10.png":
+{
+	"frame": {"x":616,"y":2,"w":327,"h":308},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":118,"w":327,"h":308},
+	"sourceSize": {"w":600,"h":603}
+},
+"bullet102fly11.png":
+{
+	"frame": {"x":293,"y":2,"w":321,"h":301},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":126,"w":321,"h":301},
+	"sourceSize": {"w":600,"h":603}
+}},
+"animations": {
+	"bullet102explode": ["bullet102explode6.png","bullet102explode8.png","bullet102explode9.png","bullet102explode10.png","bullet102explode11.png"],
+	"bullet102fly": ["bullet102fly6.png","bullet102fly8.png","bullet102fly9.png","bullet102fly10.png","bullet102fly11.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun102Pack2.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasGun102Pack0.json", "AtlasGun102Pack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:cd8e34a9bd64c14b2791bf779d0deb3f:2a143086a5b49d486fd42347bf3790f5:4d32fb80bd0a94221e51215394f41f9e$"
+}
+}

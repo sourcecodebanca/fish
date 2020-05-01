@@ -1,0 +1,96 @@
+{"frames": {
+
+"AngleDie2.png":
+{
+	"frame": {"x":2,"y":2,"w":312,"h":264},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":114,"y":190,"w":312,"h":264},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie3.png":
+{
+	"frame": {"x":316,"y":2,"w":302,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":195,"w":302,"h":260},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie4.png":
+{
+	"frame": {"x":620,"y":2,"w":294,"h":261},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":128,"y":194,"w":294,"h":261},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie5.png":
+{
+	"frame": {"x":2,"y":268,"w":297,"h":278},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":127,"y":177,"w":297,"h":278},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie6.png":
+{
+	"frame": {"x":301,"y":268,"w":293,"h":328},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":127,"w":293,"h":328},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie7.png":
+{
+	"frame": {"x":596,"y":268,"w":284,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":131,"y":100,"w":284,"h":355},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie8.png":
+{
+	"frame": {"x":2,"y":625,"w":227,"h":352},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":156,"y":99,"w":227,"h":352},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie9.png":
+{
+	"frame": {"x":231,"y":625,"w":225,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":139,"y":100,"w":225,"h":348},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie10.png":
+{
+	"frame": {"x":458,"y":625,"w":247,"h":355},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":102,"y":97,"w":247,"h":355},
+	"sourceSize": {"w":600,"h":600}
+},
+"AngleDie11.png":
+{
+	"frame": {"x":707,"y":625,"w":263,"h":350},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":76,"y":104,"w":263,"h":350},
+	"sourceSize": {"w":600,"h":600}
+}},
+"animations": {
+	"AngleDie": ["AngleDie2.png","AngleDie3.png","AngleDie4.png","AngleDie5.png","AngleDie6.png","AngleDie7.png","AngleDie8.png","AngleDie9.png","AngleDie10.png","AngleDie11.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlastBossAnglePack11.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlastBossAnglePack0.json", "AtlastBossAnglePack1.json", "AtlastBossAnglePack2.json", "AtlastBossAnglePack3.json", "AtlastBossAnglePack4.json", "AtlastBossAnglePack5.json", "AtlastBossAnglePack6.json", "AtlastBossAnglePack7.json", "AtlastBossAnglePack8.json", "AtlastBossAnglePack9.json", "AtlastBossAnglePack10.json", "AtlastBossAnglePack12.json", "AtlastBossAnglePack13.json", "AtlastBossAnglePack14.json", "AtlastBossAnglePack15.json", "AtlastBossAnglePack16.json", "AtlastBossAnglePack17.json", "AtlastBossAnglePack18.json", "AtlastBossAnglePack19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c23721a8305ec32edcc44ece443af987:aaf16483300e8b19520df32dfef14aea:5aae3e165df6b58d9ca82ad47c54e1e8$"
+}
+}

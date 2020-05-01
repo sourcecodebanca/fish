@@ -1,0 +1,40 @@
+{"frames": {
+
+"WaveBG0Wawing2.png":
+{
+	"frame": {"x":0,"y":0,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing5.png":
+{
+	"frame": {"x":0,"y":326,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+},
+"WaveBG0Wawing6.png":
+{
+	"frame": {"x":0,"y":652,"w":512,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":326},
+	"sourceSize": {"w":512,"h":326}
+}},
+"animations": {
+	"WaveBG0Wawing": ["WaveBG0Wawing2.png","WaveBG0Wawing5.png","WaveBG0Wawing6.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasWavesPack1.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":1024},
+	"scale": "0.5",
+	"related_multi_packs": [ "AtlasWavesPack0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:5885d8275ab69186ed7524ca0a375efc:38ccf13ced3fdc7e73d21e82b380ce21:e15d48e91e2522698aec4b3bb9b74303$"
+}
+}

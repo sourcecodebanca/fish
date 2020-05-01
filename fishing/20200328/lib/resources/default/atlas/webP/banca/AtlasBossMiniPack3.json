@@ -1,0 +1,21 @@
+{"frames": {
+
+"rewardBullet2x.png":
+{
+	"frame": {"x":2,"y":2,"w":571,"h":404},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":571,"h":404},
+	"sourceSize": {"w":571,"h":404}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBossMiniPack3.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasBossMiniPack0.json", "AtlasBossMiniPack1.json", "AtlasBossMiniPack2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:30d526a29f128eaa82f34fbcc56549cb:9203c166e02576ac4f0ef6a2f042e679:91a484ef99ff90760b2444370be9cb49$"
+}
+}

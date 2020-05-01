@@ -1,0 +1,13 @@
+
+AngleInSideBones.webp
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tron
+  rotate: false
+  xy: 2, 2
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1

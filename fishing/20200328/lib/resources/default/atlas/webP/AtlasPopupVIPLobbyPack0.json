@@ -1,0 +1,60 @@
+{"frames": {
+
+"iconVip0.png":
+{
+	"frame": {"x":2,"y":187,"w":92,"h":87},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":92,"h":87},
+	"sourceSize": {"w":96,"h":96}
+},
+"iconVip1.png":
+{
+	"frame": {"x":100,"y":2,"w":96,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":7,"w":96,"h":89},
+	"sourceSize": {"w":96,"h":96}
+},
+"iconVip2.png":
+{
+	"frame": {"x":100,"y":184,"w":96,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":11,"w":96,"h":80},
+	"sourceSize": {"w":96,"h":96}
+},
+"iconVip3.png":
+{
+	"frame": {"x":100,"y":93,"w":96,"h":89},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":96,"h":89},
+	"sourceSize": {"w":96,"h":96}
+},
+"iconVip4.png":
+{
+	"frame": {"x":2,"y":97,"w":96,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":96,"h":88},
+	"sourceSize": {"w":96,"h":96}
+},
+"iconVip5.png":
+{
+	"frame": {"x":2,"y":2,"w":96,"h":93},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":96,"h":93},
+	"sourceSize": {"w":96,"h":96}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasPopupVIPLobbyPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:cbe312555b06b1a08f5ae6a334c3cc2b:25b0a191b155974cba0247558f5606c1:8bbaf2584ee2b94776a4315dd848a839$"
+}
+}

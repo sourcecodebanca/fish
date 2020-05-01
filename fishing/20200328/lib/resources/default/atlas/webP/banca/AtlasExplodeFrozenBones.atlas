@@ -1,0 +1,82 @@
+AtlasExplodeFrozenBones.webp
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sz/b
+  rotate: false
+  xy: 456, 319
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+sz/ba
+  rotate: false
+  xy: 456, 369
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+sz/baaa
+  rotate: true
+  xy: 397, 147
+  size: 172, 103
+  orig: 172, 103
+  offset: 0, 0
+  index: -1
+sz/bb
+  rotate: true
+  xy: 456, 441
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+sz/bba
+  rotate: false
+  xy: 330, 139
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+sz/bbb
+  rotate: false
+  xy: 330, 93
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+sz/fx
+  rotate: true
+  xy: 237, 0
+  size: 178, 93
+  orig: 178, 93
+  offset: 0, 0
+  index: -1
+sz/t
+  rotate: false
+  xy: 0, 139
+  size: 237, 180
+  orig: 237, 180
+  offset: 0, 0
+  index: -1
+sz/tt
+  rotate: false
+  xy: 0, 2
+  size: 218, 137
+  orig: 218, 137
+  offset: 0, 0
+  index: -1
+sz/v
+  rotate: false
+  xy: 0, 319
+  size: 456, 179
+  orig: 456, 179
+  offset: 0, 0
+  index: -1
+sz/vg
+  rotate: false
+  xy: 237, 178
+  size: 160, 141
+  orig: 160, 141
+  offset: 0, 0
+  index: -1

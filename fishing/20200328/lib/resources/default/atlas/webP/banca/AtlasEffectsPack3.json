@@ -1,0 +1,29 @@
+{"frames": {
+
+"Wave0.png":
+{
+	"frame": {"x":2,"y":2,"w":352,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":352,"h":720},
+	"sourceSize": {"w":360,"h":720}
+},
+"Wave1.png":
+{
+	"frame": {"x":356,"y":2,"w":358,"h":720},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":358,"h":720},
+	"sourceSize": {"w":360,"h":720}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsPack3.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsPack0.json", "AtlasEffectsPack1.json", "AtlasEffectsPack2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:640ccd82b75f14b1c6ffc8769cf16084:f332b34ee93d9ad9f5beae7ab77e2136:cd139f44952e676af55be74224142d8e$"
+}
+}

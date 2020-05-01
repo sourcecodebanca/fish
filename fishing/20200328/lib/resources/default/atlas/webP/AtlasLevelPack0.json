@@ -1,0 +1,29 @@
+{"frames": {
+
+"BGCoin.png":
+{
+	"frame": {"x":2,"y":359,"w":323,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":323,"h":65},
+	"sourceSize": {"w":323,"h":65}
+},
+"BgLevelUp.png":
+{
+	"frame": {"x":2,"y":2,"w":505,"h":355},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":505,"h":355},
+	"sourceSize": {"w":505,"h":355}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasLevelPack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasLevelPack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:b6d07b233199bd2305200769e4930cb9:5b6cd5ec7ad69b912a4eac6532729bdf:91a25210a1f0684ff97e6c6869c6868b$"
+}
+}

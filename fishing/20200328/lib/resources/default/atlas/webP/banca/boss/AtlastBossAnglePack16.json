@@ -1,0 +1,56 @@
+{"frames": {
+
+"AngleSwim4.png":
+{
+	"frame": {"x":2,"y":2,"w":360,"h":348},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":70,"y":39,"w":360,"h":348},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim5.png":
+{
+	"frame": {"x":364,"y":2,"w":351,"h":334},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":81,"y":53,"w":351,"h":334},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim6.png":
+{
+	"frame": {"x":2,"y":352,"w":320,"h":294},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":93,"w":320,"h":294},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim7.png":
+{
+	"frame": {"x":324,"y":352,"w":321,"h":295},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":91,"w":321,"h":295},
+	"sourceSize": {"w":600,"h":437}
+},
+"AngleSwim8.png":
+{
+	"frame": {"x":647,"y":352,"w":316,"h":345},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":41,"w":316,"h":345},
+	"sourceSize": {"w":600,"h":437}
+}},
+"animations": {
+	"AngleSwim": ["AngleSwim4.png","AngleSwim5.png","AngleSwim6.png","AngleSwim7.png","AngleSwim8.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlastBossAnglePack16.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlastBossAnglePack0.json", "AtlastBossAnglePack1.json", "AtlastBossAnglePack2.json", "AtlastBossAnglePack3.json", "AtlastBossAnglePack4.json", "AtlastBossAnglePack5.json", "AtlastBossAnglePack6.json", "AtlastBossAnglePack7.json", "AtlastBossAnglePack8.json", "AtlastBossAnglePack9.json", "AtlastBossAnglePack10.json", "AtlastBossAnglePack11.json", "AtlastBossAnglePack12.json", "AtlastBossAnglePack13.json", "AtlastBossAnglePack14.json", "AtlastBossAnglePack15.json", "AtlastBossAnglePack17.json", "AtlastBossAnglePack18.json", "AtlastBossAnglePack19.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:c23721a8305ec32edcc44ece443af987:aaf16483300e8b19520df32dfef14aea:5aae3e165df6b58d9ca82ad47c54e1e8$"
+}
+}

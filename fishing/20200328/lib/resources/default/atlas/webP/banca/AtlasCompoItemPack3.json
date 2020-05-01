@@ -1,0 +1,48 @@
+{"frames": {
+
+"bgImage4.png":
+{
+	"frame": {"x":2,"y":2,"w":371,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":371,"h":370},
+	"sourceSize": {"w":371,"h":370}
+},
+"bgImage5.png":
+{
+	"frame": {"x":375,"y":2,"w":371,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":371,"h":370},
+	"sourceSize": {"w":371,"h":370}
+},
+"bgImage6.png":
+{
+	"frame": {"x":2,"y":374,"w":371,"h":370},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":371,"h":370},
+	"sourceSize": {"w":371,"h":370}
+},
+"bgImage7.png":
+{
+	"frame": {"x":374,"y":374,"w":371,"h":370},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":371,"h":370},
+	"sourceSize": {"w":371,"h":370}
+}},
+"animations": {
+	"bgImage": ["bgImage4.png","bgImage5.png","bgImage6.png","bgImage7.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasCompoItemPack3.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasCompoItemPack0.json", "AtlasCompoItemPack1.json", "AtlasCompoItemPack2.json", "AtlasCompoItemPack4.json", "AtlasCompoItemPack5.json", "AtlasCompoItemPack6.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:5e09254919a754de51bbbc3f5ea37beb:91eacfc3476570940f1148b6abd0504a:179f7d703a120db75982d3468020b72b$"
+}
+}

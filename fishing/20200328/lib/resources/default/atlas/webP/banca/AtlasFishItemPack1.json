@@ -1,0 +1,117 @@
+{"frames": {
+
+"fishItem1.png":
+{
+	"frame": {"x":192,"y":2,"w":188,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":64,"w":188,"h":116},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem2.png":
+{
+	"frame": {"x":2,"y":122,"w":182,"h":114},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":61,"w":182,"h":114},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem3.png":
+{
+	"frame": {"x":382,"y":2,"w":176,"h":119},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":57,"w":176,"h":119},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem4.png":
+{
+	"frame": {"x":2,"y":372,"w":170,"h":129},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":47,"w":170,"h":129},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem5.png":
+{
+	"frame": {"x":2,"y":503,"w":162,"h":134},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":42,"w":162,"h":134},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem6.png":
+{
+	"frame": {"x":350,"y":350,"w":156,"h":135},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":19,"y":45,"w":156,"h":135},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem7.png":
+{
+	"frame": {"x":340,"y":487,"w":155,"h":144},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":40,"w":155,"h":144},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem17.png":
+{
+	"frame": {"x":174,"y":373,"w":164,"h":137},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":41,"w":164,"h":137},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem22.png":
+{
+	"frame": {"x":192,"y":120,"w":182,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":66,"w":182,"h":116},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishItem23.png":
+{
+	"frame": {"x":2,"y":2,"w":188,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":66,"w":188,"h":118},
+	"sourceSize": {"w":215,"h":211}
+},
+"fishType19Item4.png":
+{
+	"frame": {"x":376,"y":180,"w":168,"h":134},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":25,"y":1,"w":168,"h":134},
+	"sourceSize": {"w":206,"h":140}
+},
+"fishType19Item10.png":
+{
+	"frame": {"x":177,"y":238,"w":171,"h":133},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":16,"y":2,"w":171,"h":133},
+	"sourceSize": {"w":206,"h":140}
+},
+"fishType19Item11.png":
+{
+	"frame": {"x":2,"y":238,"w":173,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":2,"w":173,"h":132},
+	"sourceSize": {"w":206,"h":140}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFishItemPack1.webp",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasFishItemPack0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:9a9d868130efaa53336f51fad0f7d173:06681cd75020a8f28213c94a9eaa371e:fb2102f87c3e9b53f11a0257898006da$"
+}
+}

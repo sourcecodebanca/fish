@@ -1,0 +1,173 @@
+{"frames": {
+
+"bgDailyMisstion.png":
+{
+	"frame": {"x":912,"y":354,"w":105,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":106},
+	"sourceSize": {"w":105,"h":106}
+},
+"bgProcessBarDragon.png":
+{
+	"frame": {"x":912,"y":750,"w":31,"h":253},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":253},
+	"sourceSize": {"w":31,"h":253}
+},
+"btnAccpectMission_Down.png":
+{
+	"frame": {"x":945,"y":840,"w":66,"h":39},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":66,"h":39},
+	"sourceSize": {"w":72,"h":44}
+},
+"btnAccpectMission_Hover.png":
+{
+	"frame": {"x":945,"y":750,"w":72,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":44},
+	"sourceSize": {"w":72,"h":44}
+},
+"btnAccpectMission_Up.png":
+{
+	"frame": {"x":945,"y":796,"w":72,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":42},
+	"sourceSize": {"w":72,"h":44}
+},
+"bulletEye.png":
+{
+	"frame": {"x":912,"y":462,"w":103,"h":197},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":197},
+	"sourceSize": {"w":103,"h":197}
+},
+"collectDragon3Piece.png":
+{
+	"frame": {"x":854,"y":943,"w":43,"h":77},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":43,"h":77},
+	"sourceSize": {"w":43,"h":77}
+},
+"completeIcon.png":
+{
+	"frame": {"x":945,"y":881,"w":61,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":61},
+	"sourceSize": {"w":61,"h":61}
+},
+"dragonIcon.png":
+{
+	"frame": {"x":1,"y":354,"w":909,"h":449},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":909,"h":449},
+	"sourceSize": {"w":909,"h":449}
+},
+"EffectBoom1.png":
+{
+	"frame": {"x":773,"y":805,"w":136,"h":136},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":188,"y":188,"w":136,"h":136},
+	"sourceSize": {"w":512,"h":512}
+},
+"Floor1Dragongun.jpg":
+{
+	"frame": {"x":1,"y":805,"w":384,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":216},
+	"sourceSize": {"w":384,"h":216}
+},
+"Floor2Dragongun.jpg":
+{
+	"frame": {"x":387,"y":805,"w":384,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":216},
+	"sourceSize": {"w":384,"h":216}
+},
+"gemHighLight.png":
+{
+	"frame": {"x":945,"y":944,"w":61,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":61},
+	"sourceSize": {"w":61,"h":61}
+},
+"ItemMission.png":
+{
+	"frame": {"x":773,"y":943,"w":79,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":20,"w":79,"h":79},
+	"sourceSize": {"w":124,"h":120}
+},
+"lightning0.png":
+{
+	"frame": {"x":1,"y":224,"w":1000,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":65},
+	"sourceSize": {"w":1000,"h":65}
+},
+"lightning1.png":
+{
+	"frame": {"x":1,"y":291,"w":1000,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":61},
+	"sourceSize": {"w":1000,"h":61}
+},
+"lightning2.png":
+{
+	"frame": {"x":1,"y":86,"w":1000,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":67},
+	"sourceSize": {"w":1000,"h":67}
+},
+"lightning3.png":
+{
+	"frame": {"x":1,"y":1,"w":1000,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":83},
+	"sourceSize": {"w":1000,"h":83}
+},
+"lightning4.png":
+{
+	"frame": {"x":1,"y":155,"w":1000,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":67},
+	"sourceSize": {"w":1000,"h":67}
+},
+"ProgressDailyMission.png":
+{
+	"frame": {"x":912,"y":661,"w":97,"h":87},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":87},
+	"sourceSize": {"w":97,"h":87}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack1.json", "AtlasEffectsInGamePack2.json", "AtlasEffectsInGamePack3.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a2662d0c191799147e7d38e23568ea9f:ab66aff7c658c934fb80c74b57bf8d8a:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

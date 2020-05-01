@@ -1,0 +1,71 @@
+{"frames": {
+
+"bullet202Area.png":
+{
+	"frame": {"x":2,"y":2,"w":452,"h":936},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":43,"w":452,"h":936},
+	"sourceSize": {"w":474,"h":1200}
+},
+"bullet202fire0.png":
+{
+	"frame": {"x":456,"y":2,"w":358,"h":142},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":19,"w":358,"h":142},
+	"sourceSize": {"w":358,"h":166}
+},
+"gun202fire0.png":
+{
+	"frame": {"x":2,"y":940,"w":65,"h":112},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":42,"w":65,"h":112},
+	"sourceSize": {"w":117,"h":163}
+},
+"gun202fire1.png":
+{
+	"frame": {"x":116,"y":940,"w":65,"h":111},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":52,"w":65,"h":111},
+	"sourceSize": {"w":117,"h":163}
+},
+"gun202fire2.png":
+{
+	"frame": {"x":816,"y":2,"w":117,"h":154},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":154},
+	"sourceSize": {"w":117,"h":163}
+},
+"gun202fire3.png":
+{
+	"frame": {"x":2,"y":940,"w":65,"h":112},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":42,"w":65,"h":112},
+	"sourceSize": {"w":117,"h":163}
+},
+"gun202idle0.png":
+{
+	"frame": {"x":2,"y":940,"w":65,"h":112},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":42,"w":65,"h":112},
+	"sourceSize": {"w":117,"h":163}
+}},
+"animations": {
+	"gun202fire": ["gun202fire0.png","gun202fire1.png","gun202fire2.png","gun202fire3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun202Pack0.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5fe2bd5968de01633ebeafa3a3d302b4:91a930ac44e2d02f865b1b1a686b13fe:a6c0bdb2967cde15f19be157411406ae$"
+}
+}
