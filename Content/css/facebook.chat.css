@@ -1,0 +1,133 @@
+.messengerButton {
+  padding: 12px;
+  border-radius: 100%;
+  bottom: 0;
+  bottom: auto;
+  height: 60px;
+  width: 60px;
+  right: 0;
+  opacity: 0;
+  position: fixed;
+  visibility: hidden;
+  z-index: 1003;
+  border: none;
+  background-color: #0084ff;
+  -webkit-box-shadow: 0px 1px 2px #000;
+  box-shadow: 0px 1px 2px #000; }
+  .messengerButton img {
+    width: 100%; }
+  .messengerButton.show {
+	bottom:0;
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1); }
+  .messengerButton:hover {
+    background-color: #044480;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1); }
+	
+.fb-livechat,
+.fb-widget {
+  display: none; }
+
+.fb-livechat .fbchatfb.fb-close {
+  position: fixed;
+  right: 24px;
+  cursor: pointer;
+  z-index: 4;
+  padding: 5px 10px;
+  background: #365899;
+  font-weight: 700;
+  font-size: 11px;
+  color: #fff;
+  margin: 8px;
+  border-radius: 3px; }
+  .fb-livechat .fbchatfb.fb-close:after {
+    content: "X";
+    font-family: sans-serif; }
+
+.fb-livechat .fb_iframe_widget {
+	margin: 0;
+}
+.fb-livechat .fbchatfb.fb-overlay {
+  z-index: 1004;
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  -webkit-transition: opacity .4s, visibility .4s;
+  -o-transition: opacity .4s, visibility .4s;
+  transition: opacity .4s, visibility .4s;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: none; }
+
+.fb-livechat .fb-widget {
+  background: #fff;
+  z-index: 1005;
+  position: fixed;
+  width: 360px;
+  height: 435px;
+  overflow: hidden;
+  opacity: 0;
+  bottom: 0;
+  right: 24px;
+  border-radius: 5px 5px 0 0;
+  -o-border-radius: 5px 5px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  box-shadow: 0 5px 40px rgba(0, 0, 0, 0.16);
+  -webkit-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.16);
+  -moz-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.16);
+  -o-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.16); }
+  .fb-livechat .fb-widget .fb-credit {
+    text-align: center;
+    margin-top: 8px; }
+    .fb-livechat .fb-widget .fb-credit a {
+      -webkit-transition: none;
+      -o-transition: none;
+      transition: none;
+      color: #bec2c9;
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      text-decoration: none;
+      border: 0;
+      font-weight: 400; }
+
+.phone .fb-livechat .fb-widget {
+  background: #fff;
+  z-index: 1005;
+  position: fixed;
+  width: 90%;
+  height: 85%;
+  overflow: scroll;
+  opacity: 0;
+  bottom: 0;
+  right: 0;
+  border-radius: 5px;
+  -webkit-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.16);
+  box-shadow: 0 5px 40px rgba(0, 0, 0, 0.16); }
+  .phone .fb-livechat .fb-widget .fb-credit {
+    text-align: center;
+    margin-top: 8px; }
+    .phone .fb-livechat .fb-widget .fb-credit a {
+      -webkit-transition: none;
+      -o-transition: none;
+      transition: none;
+      color: #bec2c9;
+      font-family: Helvetica, Arial, sans-serif;
+      font-size: 12px;
+      text-decoration: none;
+      border: 0;
+      font-weight: 400; }
+  .phone .fb-livechat .fb-widget .fb-page span {
+    display: block !important;
+    margin: 10px auto 10px auto !important; }
+    .phone .fb-livechat .fb-widget .fb-page span iframe {
+      width: 100% !important;
+      height: 100% !important; }
+
+.phone .fb-livechat .fbchatfb.fb-close {
+  padding: 5px 10px; }
